@@ -54,7 +54,7 @@ dfu-util -R -a 0 -s 0x08000000:force:mass-erase:leave -D ~/katapult/out/katapult
 ```
 Step 4
 ```
-cd klipper
+cd ~/klipper/
 ```
 ```
 git pull

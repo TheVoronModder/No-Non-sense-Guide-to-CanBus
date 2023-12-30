@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=N9FpPlgPhpY
 STEP 1.
 SSH into your pi
 ```
-Sudo nano /etc/network/interfaces.d/can0
+sudo nano /etc/network/interfaces.d/can0
 ```
 Once done you will CTRL+C these and Right Mouse Click in the terminal to paste
 ```
